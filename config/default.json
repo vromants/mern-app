@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Coshir-cuqqes-2vobha",
+  "mongoUri": "mongodb+srv://vromant:Coshir-cuqqes-2vobha@mern-demo.nd4ru.mongodb.net/app_db?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
